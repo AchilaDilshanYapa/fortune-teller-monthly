@@ -26,4 +26,4 @@ A fun and interactive web-based fortune telling game that reveals your future pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AchilaDilshanYapa/fortune-teller-monthly.git
+git clone = https://github.com/AchilaDilshanYapa/fortune-teller-monthly.git
