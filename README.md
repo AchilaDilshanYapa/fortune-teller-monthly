@@ -13,7 +13,7 @@ A fun and interactive web-based fortune telling game that reveals your future pr
 
 ## Demo
 
-[Live Demo](https://AchilaDilshanYapa.github.io/fortune-teller-monthly)
+Live Demo = https://achiladilshanyapa.github.io/fortune-teller-monthly/
 
 ## Technologies Used
 
